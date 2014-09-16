@@ -22,16 +22,13 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-    @IBAction func convertButtonPressed(sender: UIButton)
-    {
+    @IBAction func convertButtonPressed(sender: UIButton){
         // Start of button pressed code
         let sizeFromTextField = mensShoeSizeTextField.text
         let numberFromTextField = sizeFromTextField.toInt()
-        var integerfromTextField = numberFromTextField!
+        var integerFromTextField = numberFromTextField!
         let conversionConstant = 30
-        integerFromTextField += 30
-         
-        
+        integerFromTextField += conversionConstant
     }
 
 }
