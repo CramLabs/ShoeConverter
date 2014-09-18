@@ -405,6 +405,7 @@
 				84D4332C19C89109003287ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84D4332D19C89109003287ED /* Build configuration list for PBXNativeTarget "ShoeConverterTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				84D4332F19C89109003287ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
